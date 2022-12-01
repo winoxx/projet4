@@ -81,7 +81,7 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    content: "";
+   /* content: "";*/
     background-size: 2px 2px;
     position: absolute;
     top: 0;
@@ -767,7 +767,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #000102;
 }
 
 .bgc-atomic-tangerine {
