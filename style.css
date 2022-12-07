@@ -81,7 +81,8 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    /* retirer le content:""*/
+
+    content: "";
     background-size: 2px 2px;
     position: absolute;
     top: 0;
