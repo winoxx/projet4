@@ -6,10 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.texte_agenceWebLyon h2{
-    font-size: 18px;
-    color: blue;
-}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -45,6 +41,7 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
+    
 }
 
 .bloc-lg {
@@ -709,8 +706,12 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+.h2 {
     font-size: 22px;
+    line-height: 1.4em;
+}
+.texte_AgencyWebLyon{
+    font-size: 20px;
     line-height: 1.4em;
 }
 
